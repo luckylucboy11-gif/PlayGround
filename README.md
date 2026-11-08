@@ -1,5 +1,13 @@
 # PlayGround
 
+## Last Light — Quarantine District
+
+A complete, original 2D survival-horror game that runs in the browser. Open `index.html` or serve this folder with any static web server to play.
+
+- **Objective:** recover all 3 signal relays, then reach the north evacuation gate.
+- **Desktop:** WASD / arrow keys to move, mouse to aim, click to fire, **E** to use relays / gate, **R** to reload, **Shift** to run.
+- **Touch:** move with the virtual stick; tap **FIRE** to shoot and **USE** near a relay or gate.
+
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
 
